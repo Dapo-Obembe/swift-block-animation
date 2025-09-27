@@ -1,0 +1,87 @@
+# Copyright (C) 2025 Dapo Obembe
+# This file is distributed under the same license as the Swift Block Animation plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Swift Block Animation 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/swift-block-animation\n"
+"POT-Creation-Date: 2025-09-26 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WP-CLI i18n make-pot\n"
+
+#: src/edit.js:XX
+msgid "Entrance Animation"
+msgstr ""
+
+#: src/edit.js:XX
+msgid "Animation"
+msgstr ""
+
+#: src/edit.js:XX
+msgid "Choose entrance animation effect"
+msgstr ""
+
+#: src/edit.js:XX
+msgid "Animation Duration (ms)"
+msgstr ""
+
+#: src/edit.js:XX
+msgid "How long the animation takes to complete"
+msgstr ""
+
+#: src/edit.js:XX
+msgid "Animation Delay (ms)"
+msgstr ""
+
+#: src/edit.js:XX
+msgid "Delay before animation starts"
+msgstr ""
+
+#: src/edit.js:XX
+msgid "Viewport Offset (%)"
+msgstr ""
+
+#: src/edit.js:XX
+msgid "Trigger when element is X% visible in viewport"
+msgstr ""
+
+#: src/edit.js:XX
+msgid "Enable Stagger Animation"
+msgstr ""
+
+#: src/edit.js:XX
+msgid "Stagger Delay (ms)"
+msgstr ""
+
+#: src/edit.js:XX
+msgid "Delay between each element in group"
+msgstr ""
+
+#: src/edit.js:XX
+msgid "Stagger Group"
+msgstr ""
+
+#: src/edit.js:XX
+msgid "Auto (same parent)"
+msgstr ""
+
+#: src/edit.js:XX
+msgid "Group A"
+msgstr ""
+
+#: src/edit.js:XX
+msgid "Group B"
+msgstr ""
+
+#: src/edit.js:XX
+msgid "Group C"
+msgstr ""
+
+#: src/edit.js:XX
+msgid "Group D"
+msgstr ""
